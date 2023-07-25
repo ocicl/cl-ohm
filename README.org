@@ -1,0 +1,10 @@
+* cl-ohm
+
+An object-hash mapping for Redis in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rudolfochrist/cl-ohm.git   |
+| commit  | 4ca49b2  |
+| systems | cl-ohm |
+|---------+-------------------------------------------|
+
